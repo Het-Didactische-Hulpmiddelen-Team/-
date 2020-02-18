@@ -1,0 +1,12 @@
+../RequestServer/
+BomenRijExamenCoolArne/.gradle
+kakpiskakpis
+.idea
+.project
+.settings
+gradle
+gradlew
+gradlew.bat
+out
+src/main/resources
+lib
