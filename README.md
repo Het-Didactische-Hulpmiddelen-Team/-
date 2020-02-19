@@ -16,4 +16,5 @@ This script requires at least 1 parameter:
  
 
 # JAVA
-hier uitleg over hoe ge da runt met java
+Double click the jar file to start the program. 
+For more info, check the documentation.
