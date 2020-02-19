@@ -12,8 +12,8 @@ hier uitleg over hoe ge da runt met bash
 # PYTHON
 ## Requirements
 This script requires at least 1 parameter:
-   1: Your name, to be used in the zip's name (e.g.: BolaTom).
-   2: (Optional) The .txt file with the names of the files or folders you wish to zip. Defaults to 'files.txt'.
+   * 1: Your name, to be used in the zip's name (e.g.: BolaTom).
+   * 2: (Optional) The .txt file with the names of the files or folders you wish to zip. Defaults to 'files.txt'.
 
 ### txt file
 * The first line of this file must contain the path to the directory containing the files to be zipped
