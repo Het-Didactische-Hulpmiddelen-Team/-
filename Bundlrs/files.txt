@@ -1,9 +1,0 @@
-../examen_vragen/
-koek.java
-index.js
-index.html
-vogels.rb
-folder1.1
-absent.file
-weg.file
-folder20000

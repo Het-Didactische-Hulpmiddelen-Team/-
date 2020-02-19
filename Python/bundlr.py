@@ -13,13 +13,13 @@ txtfilelocation = "files.txt"
 
 if len(sys.argv) > 1:
     name = sys.argv[1]
-    outputfile = name + "_zip_to_upload.zip"
+    outputfile = name + "_zip_to_upload"
     if(len(sys.argv) > 2):
         txtfilelocation = sys.argv[2]
 else:
     exitstr = "\nThis script requires at least 1 parameter:"
     exitstr += "\n   1: Your name, to be used in the zip's name (e.g.: BolaTom)."
-    exitstr += "\n   2: (Optional) The .txt file with the names of the files or folders you wish to zip. Defaults to 'files.txt'. More info on this file can be found in the documentation."
+    exitstr += "\n   2: (Optional) The .txt file with the names of the files or folders you wish to zip. Defaults to '"+txtfilelocation+"'. More info on this file can be found in the documentation."
     sys.exit(exitstr)
   
 filesAndFolders = []
