@@ -16,4 +16,12 @@ This script requires at least 1 parameter:
  
 
 # JAVA
-hier uitleg over hoe ge da runt met java
+Double click the jar file to start the program. 
+## Requirements
+The program requires a 'files.txt', in the same directory as the jar file.
+  * The first line of this file must contain the path to the directory containing the files to be zipped
+  * The file must also contain the paths to all files and directories that need to be present
+## Execution
+After running the jar, a message will appear detailing which files and or directories are missing (if any).
+### Note
+The program always creates a zip file, even if certain files might be missing.
