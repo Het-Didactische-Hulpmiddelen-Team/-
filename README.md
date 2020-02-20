@@ -35,4 +35,4 @@ python runToBundleFiles.py r0702794_JohnDoe
 
 After execution the script will tell you which files you are missing. Make sure to check this output!
 
-SUCCESS: A zip-file has been created, ready fro you to upload to xToledo.
+SUCCESS: A zip-file has been created, ready for you to upload to xToledo.
