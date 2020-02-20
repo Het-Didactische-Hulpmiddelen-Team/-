@@ -21,7 +21,7 @@ Adds the whole folder to the list of files to include in the final zip-file
 
 * bundlr.addAllEndingIn(rootFolder, endingOfFile):
 ```python
-bundlr.addAllEndingIn(rootFolder, ".js")
+bundlr.addAllEndingIn(folder, ".js")
 ```
 Adds all '.js' files to the final zip-file
 
