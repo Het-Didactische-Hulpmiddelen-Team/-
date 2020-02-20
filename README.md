@@ -16,7 +16,9 @@ This is the script you want to edit as lector.
 As a student you are not allowed to edit this file, doing so might change the files which are included in the final zip-file and therefor might affect your grade.
 
 You want to run this file like this e.g.:
+```py
 python runToBundleFiles.py r0702794_JohnDoe
+```
 
 After execution the script will tell you which files you are missing. Make sure to check this output!
 
